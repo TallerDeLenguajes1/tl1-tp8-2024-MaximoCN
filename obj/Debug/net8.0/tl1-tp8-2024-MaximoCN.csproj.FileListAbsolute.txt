@@ -1,0 +1,14 @@
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.AssemblyInfoInputs.cache
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.AssemblyInfo.cs
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.csproj.CoreCompileInputs.cache
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\bin\Debug\net8.0\tl1-tp8-2024-MaximoCN.exe
+C:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\bin\Debug\net8.0\tl1-tp8-2024-MaximoCN.deps.json
+C:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\bin\Debug\net8.0\tl1-tp8-2024-MaximoCN.runtimeconfig.json
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\bin\Debug\net8.0\tl1-tp8-2024-MaximoCN.dll
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\bin\Debug\net8.0\tl1-tp8-2024-MaximoCN.pdb
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.dll
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\refint\tl1-tp8-2024-MaximoCN.dll
+c:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.pdb
+C:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\tl1-tp8-2024-MaximoCN.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\TP08\tl1-tp8-2024-MaximoCN\obj\Debug\net8.0\ref\tl1-tp8-2024-MaximoCN.dll
